@@ -78,3 +78,8 @@ h1 {
 footer p {
     text-align: center;
 }
+
+.abu {
+    border-left: 5px;
+    padding-left: 60px;
+}
